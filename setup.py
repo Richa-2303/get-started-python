@@ -1,7 +1,7 @@
 """
 Hello World app for running Python apps on Bluemix
 """
-# Changes done for assignment-1
+# This Change is done for assignment-1
 # Always prefer setuptools over distutils
 from setuptools import setup, find_packages
 # To use a consistent encoding
